@@ -66,7 +66,7 @@ jupyter notebook bike_sharing_forecasting.ipynb
 
 | Model | RMSE | MAE |
 |-------|------|-----|
-| Linear Regression | - | - |
+| Linear Regression |  | - |
 | Random Forest | - | - |
 | XGBoost | - | - |
 | LightGBM | - | - |
